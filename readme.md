@@ -1,0 +1,1 @@
+The purpose of this project is to incorporate if/else logic into a for...of loop.
